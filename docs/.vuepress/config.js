@@ -37,6 +37,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'webAPI',
+        link: '/webapi/',
+      },
+      {
         text: 'Ajax',
         link: '/ajax/',
       },
